@@ -1,0 +1,12 @@
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\bin\Debug\net6.0\ListOfSortingAlgorithms.deps.json
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\bin\Debug\net6.0\ListOfSortingAlgorithms.dll
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\bin\Debug\net6.0\ListOfSortingAlgorithms.pdb
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.csproj.AssemblyReference.cache
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.AssemblyInfoInputs.cache
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.AssemblyInfo.cs
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.dll
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\refint\ListOfSortingAlgorithms.dll
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ListOfSortingAlgorithms.pdb
+D:\Users\timur\Desktop\RaceOfSort\ListOfSortingAlgorithms\obj\Debug\net6.0\ref\ListOfSortingAlgorithms.dll
